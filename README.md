@@ -4,4 +4,4 @@
 3 - Execute the following command `node app.js`  
 
 Example:  
-![example](http://url/to/img.png)
+![example](Capture.PNG)
